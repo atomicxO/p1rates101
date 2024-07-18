@@ -8,7 +8,7 @@
 
 # Linux Fundamentals
 
-# Networking Tools & Fundamentals\
+# Networking Tools & Fundamentals
 
 1. Changing our IP & setting up our wireless adapter.
 2. Network terminology 
